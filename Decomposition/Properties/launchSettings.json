@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Decomposition": {
+      "commandName": "Project",
+      "commandLineArgs": "primer1.txt result1.txt 4"
+    }
+  }
+}
